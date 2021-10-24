@@ -90,7 +90,7 @@ The starter code creates an ERC20 token that will be minted through a Crowdsale 
 * Confirm and accept the transaction 
 ![Deployment](Images/transaction2.png)
 
-* Verify trasanction using etherscan.
+* Verification of trasanction using etherscan.
 ![Deployment](Images/transaction3.png)
 
 ## 5. Importing test token to metamask
